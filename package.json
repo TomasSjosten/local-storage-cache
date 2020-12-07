@@ -21,7 +21,7 @@
     "perfomance"
   ],
   "author": "Tomas Sjösten",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/TomasSjosten/local-storage-cache/issues"
   },
