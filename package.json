@@ -1,5 +1,5 @@
 {
-  "name": "local-storage-cache",
+  "name": "@tomassjosten/local-storage-cache",
   "version": "1.0.0",
   "description": "Leverage local storage to improve perfomance by caching data and expire cache",
   "main": "index.js",
