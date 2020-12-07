@@ -1,0 +1,29 @@
+{
+  "name": "local-storage-cache",
+  "version": "1.0.0",
+  "description": "Leverage local storage to improve perfomance by caching data and expire cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasSjosten/local-storage-cache.git"
+  },
+  "keywords": [
+    "Cache",
+    "Localstorage",
+    "JS",
+    "javascript",
+    "react",
+    "vue",
+    "angular",
+    "perfomance"
+  ],
+  "author": "Tomas Sjösten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasSjosten/local-storage-cache/issues"
+  },
+  "homepage": "https://github.com/TomasSjosten/local-storage-cache#readme"
+}
